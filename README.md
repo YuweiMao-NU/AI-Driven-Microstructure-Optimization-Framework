@@ -18,6 +18,9 @@ To generate the dataset, run end2end_v2.py file.
 ## Developer Team
 The code was developed by Yuwei Mao from the [CUCIS](http://cucis.ece.northwestern.edu/) group at the Electrical and Computer Engineering Department at Northwestern University.
 
+## Publication
+1. Mao, Yuwei, Mahmudul Hasan, Arindam Paul, Vishu Gupta, Kamal Choudhary, Francesca Tavazza, Wei-keng Liao, Alok Choudhary, Pinar Acar, and Ankit Agrawal. "An AI-driven microstructure optimization framework for elastic properties of titanium beyond cubic crystal systems." npj Computational Materials 9, no. 1 (2023): 111. [PDF](https://www.nature.com/articles/s41524-023-01067-8)
+
 ## Disclaimer
 The research code shared in this repository is shared without any support or guarantee on its quality. However, please do raise an issue if you find anything wrong and I will try my best to address it.
 
